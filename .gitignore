@@ -1,5 +1,6 @@
 example.xml
 env
+*.config.json
 config.json
 items.xml
 .DS_Store
