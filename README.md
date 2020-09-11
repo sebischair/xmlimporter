@@ -2,7 +2,7 @@
 
 The xmlimporter in this repo has a connection to Amelie.
 
-From the code, it seems that the python script retrieve XML objects from a file, the properties of this object are:
+From the code, it seems that the python script retrieves XML objects from a file, the properties of this object are:
 
 'Siemens.SSF.Common.CompletedDate'
 
@@ -20,4 +20,4 @@ From the code, it seems that the python script retrieve XML objects from a file,
 
 'System.CreatedBy'
 
-After retrieve the value of each property, this script connect to a MongoDB database and update this object base on its ID.
+After retrieving the value of each property, this script connects to a MongoDB database and updates this object base on its ID.
